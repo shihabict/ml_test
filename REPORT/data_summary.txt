@@ -1,0 +1,90 @@
+
+______________________showing data summary ________________________________
+
+Class Name : Political
+Number of Documents: 1205
+Number of Words:16802
+Number of Unique Words:6166
+Most Frequent Words:
+
+রাজাকার	218
+ভারত	193
+ভারতের	168
+কথা	100
+একটা	89
+পাকিস্তান	80
+বাংলাদেশের	79
+হয়ে	75
+বাংলাদেশ	71
+দেশ	71
+Class Name : troll
+Number of Documents: 1202
+Number of Words:12539
+Number of Unique Words:5361
+Most Frequent Words:
+
+বিশ্বাস	125
+একটা	103
+তুই	95
+কথা	91
+হিরো	86
+খান	67
+মানুষ	62
+বাবা	59
+আল্লাহ	57
+দিয়ে	57
+Class Name : sexual
+Number of Documents: 1201
+Number of Words:17603
+Number of Unique Words:6831
+Most Frequent Words:
+
+বিশ্বাস	206
+তুই	145
+তোর	134
+কথা	134
+আল্লাহ	113
+একটা	110
+মাগি	99
+ক্ষমা	90
+দিয়ে	79
+ভুল	77
+Class Name : Threat
+Number of Documents: 1201
+Number of Words:14409
+Number of Unique Words:5022
+Most Frequent Words:
+
+জুতা	506
+নাস্তিক	165
+তোর	153
+তুই	140
+বিশ্বাস	133
+দিয়ে	112
+কথা	105
+সাফা	99
+দরকার	93
+জুতার	90
+Class Name : Neutral
+Number of Documents: 1201
+Number of Words:10538
+Number of Unique Words:4741
+Most Frequent Words:
+
+আল্লাহ	122
+ভাই	86
+সুন্দর	74
+ভালো	68
+আপনাকে	68
+করুন	62
+কথা	60
+দান	57
+জয়	56
+ধন্যবাদ	51
+______________________summary________________________________
+   Total Documents  Total Words  Unique Words Class Names
+0             1205        16802          6166   Political
+1             1202        12539          5361       troll
+2             1201        17603          6831      sexual
+3             1201        14409          5022      Threat
+4             1201        10538          4741     Neutral

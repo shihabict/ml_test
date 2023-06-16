@@ -1,0 +1,20 @@
+[
+    {
+        "random_forest": 0.6159950676452862
+    },
+    {
+        "logistic_regression": 0.7281252736516247
+    },
+    {
+        "Decision_tree": 0.6521414418643288
+    },
+    {
+        "Navie_baise": 0.6911503737794156
+    },
+    {
+        "lstm_word_embedding": 0.6657430688448781
+    },
+    {
+        "transformerbasedEmbedding": 0.5440931780366056
+    }
+]

@@ -1,0 +1,5 @@
+Min : 1
+Max : 195
+Maximum Length of a Document: 195
+Minimum Length of a Document: 1
+Average Length of a Document: 12.0
